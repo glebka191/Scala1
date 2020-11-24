@@ -1,0 +1,9 @@
+[debug] > Exec(show, None, None)
+[error] Not a valid command: show (similar: shutdown, shell)
+[error] Expected whitespace character
+[error] Not a valid project ID: show
+[error] Expected ':'
+[error] Not a valid key: show (similar: showTiming, sLog, ps)
+[error] show
+[error]     ^
+[debug] > Exec(idea-shell, None, None)
