@@ -1,0 +1,5 @@
+package showcases
+
+class ThirdShowcase {
+
+}

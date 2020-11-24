@@ -1,0 +1,5 @@
+package showcases
+
+class SecondShowcase {
+
+}
